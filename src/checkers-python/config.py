@@ -1,7 +1,7 @@
 #c = 10
 c = 4
 debug = False
-sim_count = 450  # together with simulation limit, help control system usage no matter what the size of the board is.
+sim_count =350 #450  # together with simulation limit, help control system usage no matter what the size of the board is.
 sim_minimum = 1
 sim_scaler = 1
 reset_counter = 100000
